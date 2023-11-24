@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.09292215.css",
-    "main.js": "/static/js/main.d1628c7d.js",
+    "main.css": "/static/css/main.2a0874a9.css",
+    "main.js": "/static/js/main.dfc6b39f.js",
     "static/media/fashionsale.jpg": "/static/media/fashionsale.dff586dd0ff9003becb3.jpg",
     "static/media/payment-methods.svg": "/static/media/payment-methods.69e7ec34d1302e6b58b2cb1abe6b2f9c.svg",
     "static/media/404-not-found.svg": "/static/media/404-not-found.f58b723c5e420e43683574327be5529a.svg",
@@ -29,7 +29,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.09292215.css",
-    "static/js/main.d1628c7d.js"
+    "static/css/main.2a0874a9.css",
+    "static/js/main.dfc6b39f.js"
   ]
 }
