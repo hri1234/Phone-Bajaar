@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a0874a9.css",
-    "main.js": "/static/js/main.dfc6b39f.js",
+    "main.css": "/static/css/main.664503aa.css",
+    "main.js": "/static/js/main.c3629d20.js",
     "static/media/fashionsale.jpg": "/static/media/fashionsale.dff586dd0ff9003becb3.jpg",
     "static/media/payment-methods.svg": "/static/media/payment-methods.69e7ec34d1302e6b58b2cb1abe6b2f9c.svg",
     "static/media/404-not-found.svg": "/static/media/404-not-found.f58b723c5e420e43683574327be5529a.svg",
+    "static/media/op1.png": "/static/media/op1.24ff5ca617a0606ab892.png",
     "static/media/furniture.png": "/static/media/furniture.c167da994e4cf873c7f5.png",
     "static/media/kitchen-sale.jpg": "/static/media/kitchen-sale.058c7dbd12f5f0a0be9e.jpg",
+    "static/media/op2.png": "/static/media/op2.97b90b6e3f8c70254204.png",
     "static/media/success.png": "/static/media/success.a6e71fb67ec0538ff2ee.png",
+    "static/media/op3.png": "/static/media/op3.8e47796eecc1b8874809.png",
     "static/media/failed.png": "/static/media/failed.25f9a5080785b1e6642c.png",
     "static/media/gadget-sale.jpg": "/static/media/gadget-sale.ec893927252d46afc4d9.jpg",
     "static/media/appliances.png": "/static/media/appliances.968e046c13701f2e1260.png",
@@ -15,6 +18,7 @@
     "static/media/poco-m4-pro.webp": "/static/media/poco-m4-pro.48599deb73643813688f.webp",
     "static/media/grocery.png": "/static/media/grocery.b684d799acd0d0375626.png",
     "static/media/home.png": "/static/media/home.eb7132924aab6919441b.png",
+    "static/media/op4.png": "/static/media/op4.6f1333cbc6f067db1264.png",
     "static/media/beauty.png": "/static/media/beauty.7d66ddbcf545e947bd6b.png",
     "static/media/logo.png": "/static/media/logo.3b0baaaf50ed860dcc7a.png",
     "static/media/electronics.png": "/static/media/electronics.c3245fc5e6c095785d94.png",
@@ -29,7 +33,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.2a0874a9.css",
-    "static/js/main.dfc6b39f.js"
+    "static/css/main.664503aa.css",
+    "static/js/main.c3629d20.js"
   ]
 }
