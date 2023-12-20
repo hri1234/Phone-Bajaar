@@ -52,7 +52,7 @@ const Categories = () => {
     return (
         <section className=" sm:block bg-white mt-7 mb-4 min-w-full px-12 py-1 shadow overflow-hidden">
 
-            <div className="flex items-center justify-between mt-4"style={{position:"relative", right:"5%"}}>
+            <div className="flex items-center justify-between mt-4"}>
 
                 {catNav.map((item, i) => (
                     <Link to={`/products?category=${item.name}`} className="flex flex-col gap-1 items-center p-2 group" key={i}>
