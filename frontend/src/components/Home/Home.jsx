@@ -41,15 +41,21 @@ const Home = () => {
         <DealSlider title={"Discounts for You"} />
         {!loading && <ProductSlider title={"Suggested for You"} tagline={"Based on Your Activity"} />}
         <DealSlider title={"Discounts for You"} />
+         {!loading && <ProductSlider title={"Suggested for You"} tagline={"Based on Your Activity"} />}
+        <DealSlider title={"Discounts for You"} />
         {!loading && <ProductSlider title={"Suggested for You"} tagline={"Based on Your Activity"} />}
         <DealSlider title={"Discounts for You"} />
         {!loading && <ProductSlider title={"Suggested for You"} tagline={"Based on Your Activity"} />}
         <DealSlider title={"Discounts for You"} />
         {!loading && <ProductSlider title={"Suggested for You"} tagline={"Based on Your Activity"} />}
         <DealSlider title={"Top Brands, Best Price"} />
+         <DealSlider title={"Top Brands, Best Price"} />
         {!loading && <ProductSlider title={"You May Also Like..."} tagline={"Based on Your Interest"} />}
         <DealSlider title={"Top Offers On"} />
+         <DealSlider title={"Top Offers On"} />
         {!loading && <ProductSlider title={"Don't Miss These!"} tagline={"Inspired by your order"} />}
+        <StyledComponent />
+         {!loading && <ProductSlider title={"Don't Miss These!"} tagline={"Inspired by your order"} />}
         <StyledComponent />
       </main>
     </>
