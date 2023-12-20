@@ -25,6 +25,11 @@ const navMenu = [
         label: "Orders",
         ref: "/admin/orders",
     },
+     {
+        icon: <ShoppingBagIcon />,
+        label: "referals",
+        ref: "/admin/orders",
+    },
     {
         icon: <InventoryIcon />,
         label: "Products",
@@ -40,14 +45,29 @@ const navMenu = [
         label: "Users",
         ref: "/admin/users",
     },
+     {
+        icon: <GroupIcon />,
+        label: "Manage Seller",
+        ref: "/admin/users",
+    },
     {
         icon: <ReviewsIcon />,
         label: "Reviews",
         ref: "/admin/reviews",
     },
     {
+        icon: <ReviewsIcon />,
+        label: "Blogs",
+        ref: "/admin/reviews",
+    },
+    {
         icon: <AccountBoxIcon />,
         label: "My Profile",
+        ref: "/account",
+    },
+     {
+        icon: <AccountBoxIcon />,
+        label: "News",
         ref: "/account",
     },
     {
